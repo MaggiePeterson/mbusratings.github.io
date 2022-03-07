@@ -1,0 +1,55 @@
+body {
+    font-family: 'Chivo', sans-serif;
+    font-weight: 300;
+    background-color: #DAE0E6;
+    font-size: 20px;
+}
+   
+.home-heading {
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: 100px;
+    font-style: italic;
+    color: #3D3D3D
+}
+
+h1 {
+
+    font-family: 'Chivo', sans-serif;
+    font-weight: 700;
+
+}
+
+.button {
+    font-family: 'Chivo', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-transform: uppercase;
+    background-color: #20C1BD;
+    border: none;
+    color: white;
+    padding: 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 20px;
+}
+  
+.topnav {
+overflow: hidden;
+background-color: #333;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
